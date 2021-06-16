@@ -1,1 +1,1 @@
-# TFG-Paula-Campi-a-Monz-n
+# Estructura general del código
